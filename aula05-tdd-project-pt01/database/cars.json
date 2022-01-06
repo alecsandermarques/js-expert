@@ -1,0 +1,23 @@
+[
+  {
+    "id": "35390cfa-2783-480d-a513-4ad70352d56b",
+    "name": "XC90",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e851694c-c71a-4589-adff-3fc851d3f663",
+    "name": "CX-9",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "eeb453b2-eb18-4069-bae5-244c54058201",
+    "name": "Volt",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
